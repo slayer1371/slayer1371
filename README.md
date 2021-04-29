@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **slayer1371/slayer1371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with rohan mc h
 - 💬 Ask me about nothing
 - 📫 How to reach me: nope
-- 😄 Pronouns: he
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: harsh laundiyabaaz h
--->
+
