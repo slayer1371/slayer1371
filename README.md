@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: harsh laundiyabaaz h
 - 👀 Number of visits since 30-04-2021----> 
-![Visitor Count](https://profile-counter.glitch.me/%7Bslayer1371%7D/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{slayer1371}/count.svg)
