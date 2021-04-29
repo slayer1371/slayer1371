@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript es6
 - 👯 I’m looking to collaborate on bsdiwalon  noob hn mei
 - 🤔 I’m looking for help with rohan mc h
-- 💬 Ask me about nothing
-- 📫 How to reach me: nope
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: harsh laundiyabaaz h
 - 👀 Number of visits since 30-04-2021----> 
