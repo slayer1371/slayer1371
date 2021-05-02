@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing rn
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: harsh laundiyabaaz h
-- 👀 Number of visits since 30-04-2021----> 
+- 👀 Number of visits since 30-04-2021----><br>
 ![Visitor Count](https://profile-counter.glitch.me/{slayer1371}/count.svg)
