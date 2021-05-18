@@ -1,8 +1,8 @@
-![blah1](https://user-images.githubusercontent.com/77551419/118670707-795e1e00-b814-11eb-917c-2011c81b163c.png height="100px")
 ### Hi I'm Mrinal 👋
 
 <h1>Mrinal Sharma</h1>
 
 <h5>aspiring to be a web developer.</h5>
+![blah1](https://user-images.githubusercontent.com/77551419/118670707-795e1e00-b814-11eb-917c-2011c81b163c.png)
 
 <img src="https://www.xhtmljunction.com/blog/wp-content/uploads/2018/02/html5-css3.png" height="80px"></img>
