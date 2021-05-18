@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi I'm Mrinal 👋
 
-<em><strong>This is Mrinal.</strong></em>
+<h1>Mrinal Sharma</h1>
 
 <h6>Learning Web Development all at once right now.</h6>
 
