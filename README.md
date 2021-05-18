@@ -1,7 +1,10 @@
-<script
+<html>
+      <head>
+           <script
       src="https://kit.fontawesome.com/09f9366eb1.js"
       crossorigin="anonymous"
     ></script>
+      </head>
 ### Hi there 👋
 
 <em><strong>This is Mrinal.</strong></em>
