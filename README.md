@@ -4,4 +4,4 @@
 
 <h6>Learning Web Development all at once right now.</h6>
 
-<img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" height="80px"></img>
+<img src="https://www.xhtmljunction.com/blog/wp-content/uploads/2018/02/html5-css3.png" height="80px"></img>
