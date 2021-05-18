@@ -1,3 +1,4 @@
+![blah1](https://user-images.githubusercontent.com/77551419/118670707-795e1e00-b814-11eb-917c-2011c81b163c.png)
 ### Hi I'm Mrinal 👋
 
 <h1>Mrinal Sharma</h1>
