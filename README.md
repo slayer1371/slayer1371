@@ -11,7 +11,7 @@
   <img align="left" alt="Mrinal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=slayer1371-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)]
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=slayer1371-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)
 
 <br />
 
