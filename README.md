@@ -12,7 +12,7 @@
 </a>
 <br /><br />
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=slayer1371-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)](https://github.com/slayer1371/VisitorBadgeReloaded)
+[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
 
 <br />
 
