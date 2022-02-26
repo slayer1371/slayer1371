@@ -14,7 +14,8 @@
   <img align="left" alt="Mrinal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=slayer1371-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)](https://github.com/slayer1371/VisitorBadgeReloaded)
+![](https://visitor-badge.glitch.me/badge?page_id=slayer1371.slayer1371)
+
 
 Hi, I'm [Mrinal Sharma](https://slayer1371.github.io/mrinal), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
