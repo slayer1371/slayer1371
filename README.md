@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/mrinal_sharma_._/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="www.linkedin.com/in/mrinal-sharma1371">
+<a href="https://www.linkedin.com/in/mrinal-sharma1371">
   <img align="left" alt="Mrinal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
