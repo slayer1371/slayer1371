@@ -10,10 +10,9 @@
 <a href="https://open.spotify.com/user/c4kgacim1fz8a062ly6g61521">
   <img align="left" alt="Mrinal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://open.spotify.com/user/c4kgacim1fz8a062ly6g61521">
-  <img align="left" alt="Mrinal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="mailto:mrinalwork1@gmail.com">
+  <img align="left"  width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=slayer1371.slayer1371)
 
 
