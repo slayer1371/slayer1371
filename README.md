@@ -7,9 +7,9 @@
 <a href="https://www.linkedin.com/in/mrinal-sharma1371">
   <img align="left" alt="Mrinal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/c4kgacim1fz8a062ly6g61521">
-  <img align="left" alt="Mrinal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<!-- <a href="https://open.spotify.com/user/c4kgacim1fz8a062ly6g61521">
+  <img align="left" alt="Mrinal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> -->
+<!-- </a> -->
 <a href="mailto:mrinalwork1@gmail.com">
   <img align="left"  width="27px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />
 </a>
