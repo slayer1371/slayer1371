@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mrinal Sharma</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Mrinal+Sharma)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayer1371&label=Profile%20views&color=0e75b6&style=flat" alt="slayer1371" /> </p>
