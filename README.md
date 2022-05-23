@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayer1371&label=Profile%20views&color=0e75b6&style=flat" alt="slayer1371" /> </p>
 
+[![](https://gitwar.herokuapp.com/badge?username=slayer1371&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/slayer1371?tab=repositories)
@@ -11,9 +15,6 @@
 - 📫 Reach me at **mrinalwork1@gmail.com**
 
 - ⚡ Fun fact -> **Thumbs are stronger than pinkies.**
-[![](https://gitwar.herokuapp.com/badge?username=slayer1371&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
