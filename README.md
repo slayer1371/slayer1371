@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **mrinalwork1@gmail.com**
 
-- ⚡ Fun fact **Thumbs are stronger than pinkies.**
+- ⚡ Fun fact -> **Thumbs are stronger than pinkies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
