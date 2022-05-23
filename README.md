@@ -1,4 +1,4 @@
-<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Mrinal+Sharma)](https://git.io/typing-svg)</center>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Mrinal+Sharma)](https://git.io/typing-svg)</h1>
 
 <h3 align="center">A passionate frontend developer from India.</h3>
 
