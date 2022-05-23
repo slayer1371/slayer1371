@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mrinal+Sharma.+An+aspiring+frontend+developer+in+India.)](https://git.io/typing-svg)
-
-//<h3 align="center">A passionate frontend developer from India.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Mrinal+Sharma.+An+aspiring+frontend+developer+in+India.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayer1371&label=Profile%20views&color=0e75b6&style=flat" alt="slayer1371" /> </p>
 
