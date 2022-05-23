@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/slayer1371?tab=repositories](https://github.com/slayer1371?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS , JS**
+- 💬 Ask me **Anything!**
 
-- 📫 How to reach me **mrinalwork1@gmail.com**
+- 📫 Reach me at **mrinalwork1@gmail.com**
 
-- ⚡ Fun fact **I think Imma funny.**
+- ⚡ Fun fact **Thumbs are stronger than pinkies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
