@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/slayer1371?tab=repositories](https://github.com/slayer1371?tab=repositories)
+- 👨‍💻 All of my projects are available [here.](https://github.com/slayer1371?tab=repositories)
 
 - 💬 Ask me **Anything!**
 
