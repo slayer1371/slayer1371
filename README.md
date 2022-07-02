@@ -3,7 +3,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/slayer1371?tab=repositories)
 
