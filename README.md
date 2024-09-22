@@ -3,13 +3,13 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-- 🌱 I’m currently  **making random websites using React :)**
+- 🌱 I’m currently  **working in a startup and a community project. :)**
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/slayer1371?tab=repositories)
 
 - 💬 Ask me **Anything!**
 
-- 📫 Reach me at **mrinalwork1@gmail.com**
+- 📫 Reach me at **mrinalwork2@gmail.com**
 
 - ⚡ Fun fact -> **Thumbs are stronger than pinkies.**
 
