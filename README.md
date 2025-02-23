@@ -9,7 +9,7 @@
 
 - 💬 Ask me **Anything!**
 
-- 📫 Reach me at **mrinalwork2@gmail.com**
+- 📫 Reach me at **msharma2@nd.edu**
 
 - ⚡ Fun fact -> **Thumbs are stronger than pinkies.**
 
