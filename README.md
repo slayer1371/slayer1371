@@ -77,27 +77,36 @@ const mrinal = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Journey
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=slayer1371&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Mrinal's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer1371&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=slayer1371&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | 50+ |
+| **GitHub Followers** | Growing 📈 |
+| **Public Contributions** | 1000+ |
+| **Favorite Language** | TypeScript |
+| **Current Focus** | Full-Stack & DevOps |
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slayer1371&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌟 Key Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=slayer1371&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+✨ **Built Cloud-Native Applications** with Kubernetes & Docker
+
+🚀 **Full-Stack Developer** proficient in MERN & Modern Web Tech
+
+💾 **Database Expert** with PostgreSQL & MongoDB experience
+
+🔧 **DevOps Enthusiast** with AWS & CI/CD pipeline expertise
+
+🤖 **AI-Powered Projects** leveraging Google Gemini & LLMs
+
 </div>
 
 ---
