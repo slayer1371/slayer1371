@@ -10,11 +10,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🧑‍💻 About Me
 
-```javascript
+```
 const mrinal = {
     pronouns: "he" | "him",
     location: "Notre Dame, IN 🇺🇸",
@@ -95,14 +95,6 @@ const mrinal = {
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/slayer1371/slayer1371/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -132,7 +124,7 @@ const mrinal = {
   
 ### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"First, solve the problem. Then, write the code."* – John Johnson
 
 </div>
 
@@ -143,7 +135,9 @@ const mrinal = {
 </div>
 
 <div align="center">
+  
+### 💻 Happy Coding!
+  
   <b>⭐ From <a href="https://github.com/slayer1371">slayer1371</a> with ❤️</b>
-  <br><br>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  
 </div>
