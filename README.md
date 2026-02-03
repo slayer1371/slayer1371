@@ -77,22 +77,6 @@ const mrinal = {
 
 ---
 
-### 📊 My GitHub Journey
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Total Repositories** | 50+ |
-| **GitHub Followers** | Growing 📈 |
-| **Public Contributions** | 1000+ |
-| **Favorite Language** | TypeScript |
-| **Current Focus** | Full-Stack & DevOps |
-
-</div>
-
----
-
 ### 🌟 Key Achievements
 
 <div align="center">
@@ -110,30 +94,14 @@ const mrinal = {
 </div>
 
 ---
-
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-sharma)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrinal_sharma)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrinal_sharma_._)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/slayer1371)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mrinalwork2)
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/slayer1371)
+[![Email](https://img.shields.io/badge/Email-msharma2%40nd.edu-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msharma2@nd.edu)
 
 </div>
-
-<div align="center">
-  
-### 📬 Let's Talk!
-
-<a href="mailto:msharma2@nd.edu">
-  <img src="https://img.shields.io/badge/Email-msharma2%40nd.edu-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
