@@ -99,7 +99,7 @@ const mrinal = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-sharma)
-[![Email](https://img.shields.io/badge/Email-msharma2%40nd.edu-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msharma2@nd.edu)
+[![Email](https://img.shields.io/badge/Email-msharma2%40nd.edu-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msharma2alumni.@nd.edu)
 
 </div>
 ---
